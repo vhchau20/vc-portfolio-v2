@@ -7,7 +7,7 @@ class Projects extends Component {
         <div className="row swe">
           <div className="three columns header-col">
             <h1>
-              <span>Software ENG</span>
+              <span>Software DEV</span>
             </h1>
           </div>
 
@@ -133,36 +133,28 @@ class Projects extends Component {
             <div class="wrap-collapsible">
               <input id="collapsible9" class="toggle" type="checkbox" />
               <label for="collapsible9" class="lbl-toggle">
-                MATH1
+                How Congressional Districts use Graph Theory for the Census
               </label>
               <div class="collapsible-content">
                 <div class="content-inner">
                   <p>
-                    MATH1a
+                    Report on how Graph Theory can be applied in cases such as the US Census
+                    <br></br>
+                    <embed src="images/presentation-vhchau.pdf" width="600px" height="800px"/>
                   </p>
                 </div>
               </div>
 
               <input id="collapsible10" class="toggle" type="checkbox" />
               <label for="collapsible10" class="lbl-toggle">
-                MATH2
+                IBM Churn Rate
               </label>
               <div class="collapsible-content">
                 <div class="content-inner">
                   <p>
-                    MATH2a
-                  </p>
-                </div>
-              </div>
-
-              <input id="collapsible11" class="toggle" type="checkbox" />
-              <label for="collapsible11" class="lbl-toggle">
-                MATH3
-              </label>
-              <div class="collapsible-content">
-                <div class="content-inner">
-                  <p>
-                    MATH3a
+                    Report on churn rate for IBM Subscribers
+                    <br></br>
+                    <embed src="images/IBM Churn.pdf" width="800px" height="500px"/>                    
                   </p>
                 </div>
               </div>
