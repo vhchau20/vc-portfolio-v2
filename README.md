@@ -1,4 +1,4 @@
-Check out my personal website at https://vincentchau.github.io.
+Check out my personal website at https://vhchau20.github.io.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
