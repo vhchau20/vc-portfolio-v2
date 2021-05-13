@@ -2,7 +2,7 @@
   "name": "vc-portfolio-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vhchau20.github.io/",
+  "homepage": "https://vhchau20.github.io/vc-portfolio-v2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
