@@ -1,8 +1,9 @@
+
 {
   "name": "vc-portfolio-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vhchau20.github.io/vc-portfolio-v2",
+  "homepage": "https://vhchau20/vc-portfolio-v2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -16,10 +17,10 @@
     "yarn": "^1.22.5"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
